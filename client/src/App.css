@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.bg-color{
+    background-color: #AFC2F3;
+}
+.font-size{
+    font-size: 15px;
+}
+
+.icon-speaker{
+    margin-top: 3px;
+    margin-right: 10px;
+}
+.footer-bg-color
+{
+    background-color: #8f84cf;
+}
